@@ -1,0 +1,41 @@
+body {
+  background-color: #111;
+  color: #fff;
+}
+
+nav {
+  background-color: #6d67e4;
+}
+.navbar-brand {
+  color: #fff !important;
+}
+li {
+  cursor: pointer;
+}
+
+.sign {
+  overflow: hidden;
+  padding: 30px;
+  margin-top: 4rem;
+  box-shadow: 15px 15px 30px #000, -15px -15px 30px #000;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+input {
+  color: #fff !important;
+}
+
+.btn-info {
+  background-color: #6d67e4 !important;
+  color: #fff !important;
+  border: 0;
+}
+
+.note {
+  padding: 20px;
+  margin: 2rem 0;
+  background-color: #6d67e4;
+}
